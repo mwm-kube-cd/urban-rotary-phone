@@ -10,6 +10,9 @@ pipeline {
         stage('Build') { 
             steps {
                 sh 'echo hello from Jenkinsfile!' 
+                sh 'echo Waiting 30s...'
+                sh 'sleep 30'
+                sh 'echo done'
             }
         }
     }
