@@ -1,9 +1,0 @@
-# This file was edited by Cloudbees Feature Management
-type: experiment
-enabled: false
-flag: stringFlagFromUI
-availableValues:
-  - a
-  - b
-  - c
-value: a

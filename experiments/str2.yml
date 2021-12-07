@@ -1,9 +1,0 @@
-# This file was edited by Cloudbees Feature Management
-type: experiment
-enabled: false
-flag: str2
-availableValues:
-  - bb
-  - cc
-  - aa
-value: cc

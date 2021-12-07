@@ -1,5 +1,0 @@
-# This file was edited by Cloudbees Feature Management
-type: experiment
-enabled: false
-flag: newBooleanFlag1
-value: false
